@@ -1,0 +1,194 @@
+<menu>
+	<game name="vikings">
+		<description>Age of Vikings</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2017</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="arcade">
+		<description>Arcade Pinball</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2012</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="davinci">
+		<description>Davinci Pinball Machine</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2011</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="dreamland">
+		<description>Dreamland</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2016</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="halloween">
+		<description>Halloween</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2013</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="jungle">
+		<description>Jungle Style Pinball</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2009</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="mafia">
+		<description>Mafia</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2016</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="fantasy">
+		<description>Pinball Fantasy</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2015</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="pirates">
+		<description>Pirates</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2014</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="redplanet">
+		<description>Red Planet Pinball</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2014</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="snow">
+		<description>Snow Pinball</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2013</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="streetracing">
+		<description>Street Racing</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2015</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="tanks">
+		<description>Tanks Pinball</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2014</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="deep">
+		<description>The Deep</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2009</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="wildwest">
+		<description>Wild West</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2009</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="zombie">
+		<description>Zombie Attack</description>
+		<rom></rom>
+		<manufacturer>Gameprom</manufacturer>
+		<year>2015</year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+</menu>
