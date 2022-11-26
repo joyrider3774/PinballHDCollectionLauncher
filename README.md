@@ -34,6 +34,9 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - wildwest
 - zombie
 
+## Getting Table Media from the game
+Copy `create_assets_from_game.bat` from the media folder to the games installation folder where `PinballHDCollection.exe` is also located and run the batch file. It will create 2 wheel, audio and backglass folder where the media will be in which you can use.
+
 ## Cabinet setup pinball X
 
 ### Pinball X Settings 
@@ -79,6 +82,8 @@ compile the provided script to an EXE and make sure it's working then add a new 
 Also download Display.exe from this [zip file](https://www.nailbuster.com/uploads/PopperFXMirror.zip) made by NailBuster so you can rotate the screen. Extract this in `PinUPPopper\Launch` directory
 
 You will also need [dmdext](https://github.com/freezy/dmd-extensions/) to mirror the dmd display to the correct display but its possible it already exists in your vpinmame directory
+
+Table video's will need to be rotated as they were made for pinballx run `rotate table videos 180 degrees.bat` in media folder
 
 Make sure to select to keep your backglass visible, i also enabled my topper to remain visible
 
