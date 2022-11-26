@@ -42,8 +42,11 @@ compile the provided script to an EXE and make sure it's working then use these 
 
 ### Launch before & After script
 You will need a launch before to run some program to rotate your screen to portrait mode. I personally use [irotate](https://www.entechtaiwan.com/util/irotate.shtm).
+
 You will also need [dmdext](https://github.com/freezy/dmd-extensions/) to mirror the dmd display to the correct display
+
 You will optionally also need my [Image monitor view](https://github.com/joyrider3774/Image_Monitor_View) program to display backglasses on the backglass monitor as rotating the screen sometimes has an effect on the positions from pinballx
+
 You will optionally need ffplay.exe from [ffmpeg](https://ffmpeg.org/download.html) to play the topper videos on the topper display as pinballx and rotating the screen makes the videos stop from inside pinballx
 
 Launch before (bat):
@@ -72,7 +75,11 @@ powershell -Command "Start-Process 'irotate.exe' '/2:rotate=0 /exit' -Verb runAs
 
 ### Popper Settings 
 compile the provided script to an EXE and make sure it's working then add a new emulator using these settings and import the games from [exported game](https://raw.githubusercontent.com/joyrider3774/PinballHDCollectionLauncher/main/Databases/Popper/Export_Pinball%20HD%20Collection.pupgames) list i made (Use right click save as)
+
 Also download Display.exe from this [zip file](https://www.nailbuster.com/uploads/PopperFXMirror.zip) made by NailBuster so you can rotate the screen. Extract this in `PinUPPopper\Launch` directory
+
+You will also need [dmdext](https://github.com/freezy/dmd-extensions/) to mirror the dmd display to the correct display but its possible it already exists in your vpinmame directory
+
 Make sure to select to keep your backglass visible, i also enabled my topper to remain visible
 
 <IMG src="Meta/poppersettings.png"/>
