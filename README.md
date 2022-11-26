@@ -38,7 +38,7 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 
 ### Pinball X Settings 
 compile the provided script to an EXE and make sure it's working then use these settings:
-<IMG src="Meta/pinballxsetings.png"/>
+<IMG src="Meta/pinballxsettings.png"/>
 
 ### Launch before & After script
 You will need a launch before to run some program to rotate your screen to portrait mode. I personally use [irotate](https://www.entechtaiwan.com/util/irotate.shtm).
