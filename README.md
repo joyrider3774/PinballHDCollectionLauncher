@@ -81,11 +81,11 @@ Make sure to select to keep your backglass visible, i also enabled my topper to 
 ```
 @echo off
 REM This uses position for full hd it is possible you need to double the size in --position parameter when using 4k you also need to change --virtual-position positions to the location where you want to display thd dmd
-start "" /min "c:\pinball\visualpinball\vpinmame\dmdext.exe" mirror --source=screen --position=220 0 640 128 --destination=virtual --virtual-stay-on-top --virtual-hide-grip --virtual-position=3840 540 1920 540 --virtual-dotsize=1.1
+start /min "" "c:\pinball\visualpinball\vpinmame\dmdext.exe" mirror --source=screen --position=220 0 640 128 --destination=virtual --virtual-stay-on-top --virtual-hide-grip --virtual-position=3840 540 1920 540 --virtual-dotsize=1.1
 timeout 2
 
 REM rotate screen
-START "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 90
+START /min "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 90
 timeout 2
 
 REM Launch launcher
@@ -98,7 +98,7 @@ START "" "[STARTDIR]Launch\VPXSTARTER.exe" 5 5 60 "Pinball HD Collection"
 
 ### Close Script
 ```
-START "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 0
+START /min "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 0
 timeout 2
 
 "[STARTDIR]LAUNCH\PUPCLOSER.EXE" WINTIT "Pinball HD Collection" 4 1
