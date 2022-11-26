@@ -38,7 +38,7 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 
 ### Pinball X Settings 
 compile the provided script to an EXE and make sure it's working then use these settings:
-<IMG src="meta/pinballxsetings.png"/>
+<IMG src="Meta/pinballxsetings.png"/>
 
 ### Launch before & After script
 You will need a launch before to run some program to rotate your screen to portrait mode. I personally use [irotate](https://www.entechtaiwan.com/util/irotate.shtm).
@@ -75,13 +75,13 @@ compile the provided script to an EXE and make sure it's working then add a new 
 Also download Display.exe from this [zip file](https://www.nailbuster.com/uploads/PopperFXMirror.zip) made by NailBuster so you can rotate the screen. Extract this in `PinUPPopper\Launch` directory
 Make sure to select to keep your backglass visible, i also enabled my topper to remain visible
 
-<IMG src="meta/poppersettings.png"/>
+<IMG src="Meta/poppersettings.png"/>
 
 ### Launch Script
 ```
 @echo off
 REM This uses position for full hd it is possible you need to double the size in --position parameter when using 4k you also need to change --virtual-position positions to the location where you want to display thd dmd
-start "" /min "M:\Pinball\Visual Pinball\VPinMAME\dmdext.exe" mirror --source=screen --position=220 0 640 128 --destination=virtual --virtual-stay-on-top --virtual-hide-grip --virtual-position=3840 540 1920 540 --virtual-dotsize=1.1
+start "" /min "c:\pinball\visualpinball\vpinmame\dmdext.exe" mirror --source=screen --position=220 0 640 128 --destination=virtual --virtual-stay-on-top --virtual-hide-grip --virtual-position=3840 540 1920 540 --virtual-dotsize=1.1
 timeout 2
 
 REM rotate screen
