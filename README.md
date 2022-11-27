@@ -4,7 +4,7 @@ A Launch Autohotkey script for pinball HD Collection that adds per table launchi
 ## Help Videos
 
 ### Pinup Popper
-[![Pinball HD Collection Launcher Pinup Popper Helper Video](http://img.youtube.com/vi/GQxiCvGwmyY/0.jpg)](https://youtu.beGQxiCvGwmyY "Pinball HD Collection Launcher Pinup Popper Helper Video")
+[![Pinball HD Collection Launcher Pinup Popper Helper Video](http://img.youtube.com/vi/GQxiCvGwmyY/0.jpg)](https://youtu.be/GQxiCvGwmyY "Pinball HD Collection Launcher Pinup Popper Helper Video")
 
 ## Usage
 Compile To Exe (check video above) then use these commands
