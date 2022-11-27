@@ -1,4 +1,6 @@
 # Pinball HD Collection Launcher
+[![Download Latest Version](https://img.shields.io/github/v/tag/joyrider3774/PinballHDCollectionLauncher?label=Latest%20version&style=plastic)](https://github.com/joyrider3774/PinballHDCollectionLauncher/releases "Download Latest Version") ![License](https://img.shields.io/github/license/joyrider3774/PinballHDCollectionLauncher?style=plastic)
+
 A Launch Autohotkey script for pinball HD Collection that adds per table launching support. Plus a collection of media images like docklet wheels and backglass and Table videos that work with the script
 
 ## Help Videos
