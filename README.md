@@ -125,3 +125,4 @@ taskkill /f /im dmdext.exe
 ## Credits:
 - System Logo i extracted from a backglass screenshot / promotional image
 - Default System Backglass was a promotional image found on google
+- Pinup popper playlist wheels i created based on the default wheel image template from Nailbuster as well as a playlist psd template by discord user Dondi and a promotional image from the game
